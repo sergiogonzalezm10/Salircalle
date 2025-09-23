@@ -14,7 +14,7 @@ public class Salircalle {
 		  Scanner sc = new Scanner(System.in);
 
 	        System.out.print("¿Está lloviendo?: ");
-	        llueve = sc.nextBoolean();  // Aquí el usuario escribe true o false
+	        llueve = sc.nextBoolean();  
 
 	        System.out.print("¿Has terminado tus tareas?: ");
 	        tareasFinalizadas = sc.nextBoolean();
